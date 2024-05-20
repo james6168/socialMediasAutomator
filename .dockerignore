@@ -1,0 +1,43 @@
+# .pyc
+**/*.pyc
+
+# .pyo
+**/*.pyo
+
+# .pyd
+**/*.pyd
+
+# Tempfiles
+tmp*
+*tmp*
+
+# Git
+.git
+.gitignore
+.svn
+.hg
+.hgignore
+.hgstore
+.bzr
+.bzrignore
+.bzrtags
+
+# Docker
+.dockerignore
+Dockerfile
+doc/Dockerfile
+*.dockerfile
+docker-compose.yml
+
+# __pycache__
+**/__pycache__
+
+# logs
+*.log
+
+# envs
+venv/
+
+
+# csv
+*.csv
